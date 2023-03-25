@@ -3,7 +3,8 @@ body{
     background-size: cover;
     
     
-    
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     height: 100vh;
     padding:0;
     margin:0;
